@@ -34,6 +34,7 @@ Current Project: <a href="https://github.com/Ftres/Ftres">It's what u r watching
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ftres&theme=buefy&layout=compact" />
 </a>
 
+
 <!--
 **Ftres/Ftres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

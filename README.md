@@ -1,22 +1,38 @@
-### Hi there 👋
+### Welcome to Ftre's Hut 👋
+
+<p align="center">
+  <br>
+  <samp>
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/Ftres">FTRE</a></b>.
+    <br>I'm a IS Undergraduate Student from NKU.<br>
+
+</samp>
+
+  <img src="https://github.com/Ftres/Ftres/blob/main/asserts/hollor_knight.gif" width="200"/>
+  
+</p>
 
 
-<h2 align="center">Github stats :bar_chart:</h2>
+<details align="center">
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<summary> <b> <samp> Light bonfire </samp></b></summary>
+<samp>
+ <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{Ftres}/count.svg" alt="Ftres :: Visitor's Count" /></p>
+<img src="https://github.com/Ftres/Ftres/blob/main/asserts/bonefire.gif" width="200"/>
 
-<h4 align="center">Top langs :tongue:</h4>
+Current Project: <a href="https://github.com/Ftres/Ftres">It's what u r watching.</a>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ftres&langs_count=10&theme=tokyonight&layout=compact" alt="Ftres :: Top Langs" /></p>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+</samp>
+</details>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ftres&show_icons=true&theme=synthwave" alt="Ftres :: Profile Stats" /></p>
-
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
-
+<br />
+<br />
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+</a>
 
 <!--
 **Ftres/Ftres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

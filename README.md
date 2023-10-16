@@ -4,7 +4,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/Ftres">FTRE</a></b>.
-    <br>I'm an IS Undergraduate Student from NKU.<br>
+    <br>An IS Undergraduate Student from NKU.<br>
 
 </samp>
 

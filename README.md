@@ -1,5 +1,3 @@
-### Welcome to Ftre's Hut 👋
-
 <p align="center">
   <br>
   <samp>
@@ -27,13 +25,14 @@ Current Project: <a href="https://github.com/Ftres/Ftres">It's what u r watching
 </samp>
 </details>
 
+<!--
 <br />
 <br />
-<a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ftres&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ftres&theme=buefy&layout=compact" />
+<a href="https://github.com/Ftres">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ftres&theme=buefy&show_icons=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ftres&theme=buefy&layout=compact" />
 </a>
-
+-->
 
 <!--
 **Ftres/Ftres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

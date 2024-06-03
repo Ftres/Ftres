@@ -29,7 +29,7 @@ Current Project: <a href="https://github.com/Ftres/Ftres">It's what u r watching
 
 <br />
 <br />
-<a href="https://github.com/AVS1508">
+<a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ftres&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ftres&theme=buefy&layout=compact" />
 </a>

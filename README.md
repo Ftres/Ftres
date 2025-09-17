@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/Ftres">FTRE</a></b>.
-    <br>An IS Undergraduate Student from NKU.<br>
+    <br>A Cybersecurity Graduate from NKU.<br>
 
 </samp>
 
